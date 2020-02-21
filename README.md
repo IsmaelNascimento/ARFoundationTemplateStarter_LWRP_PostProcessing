@@ -1,6 +1,6 @@
 # ARFoundationTemplateStarter_LWRP_PostProcessing
 
-## You need to install the following packages in their latest versions:
+## Dependecies:
 - AR Foundation
 - AR Subsystems
 - ARCore XR Plugin
@@ -9,7 +9,7 @@
 - Lighweight RP
 - Post Processing
 
-## How Install Packages:
+## How Install dependecies:
 
 Go to Window/Package Manager
 
@@ -20,7 +20,11 @@ Go to Window/Package Manager
 - Select Graphic Option
 
 - Drag and Drop LightweightRenderPipelineAsset for Scriptable Render Pipeline Settings
-- 
+
+## Install on your project via unitypackage:
+
+https://github.com/IsmaelNascimento/ARFoundationTemplateStarter_LWRP_PostProcessing/releases
+
 ## Help:
 
 Open issue or send me message, my contacts below:
