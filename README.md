@@ -27,7 +27,7 @@ https://github.com/IsmaelNascimento/ARFoundationTemplateStarter_LWRP_PostProcess
 
 ## Help:
 
-Video about project: 
+Video about project: https://youtu.be/WTlx1hq2E20
 
 Open issue or send me message, my contacts:
 www.ismaelnascimento.com
