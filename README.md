@@ -31,6 +31,3 @@ Video about project: https://youtu.be/WTlx1hq2E20
 
 Open issue or send me message, my contacts:
 www.ismaelnascimento.com
-
-## Demo gif
-![Demo](https://im6.ezgif.com/tmp/ezgif-6-6154c136feef.gif)
