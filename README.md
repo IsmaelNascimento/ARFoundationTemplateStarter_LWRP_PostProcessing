@@ -6,7 +6,7 @@
 - ARCore XR Plugin
 - ARKit XR Plugin
 - ARKit Face Tracking (optional)
-- Lighweight RP
+- Universal RP
 - Post Processing
 
 ## How Install dependecies:
